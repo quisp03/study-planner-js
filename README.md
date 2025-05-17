@@ -12,15 +12,15 @@ _A two‑month, single‑language project to level‑up in JavaScript_
 
 | Week | Calendar Span | Milestone | Key Tasks |
 |------|---------------|-----------|-----------|
-| **0** | **26, May – 01 Jun** | ✔️ Kick‑off & Setup | • Create GitHub org / repo<br>• Install Node 20 & VS Code<br>• Agree on ESLint + Prettier config |
-| **1** | **02, Jun – 08 Jun** | **JS Fundamentals Sprint** | • Complete freeCodeCamp JS basics (200 exercises)<br>• Solve 10 CodeWars katas<br>• Push `notes/` with reflections |
-| **2** | **09, Jun – 15 Jun** | **Hello Express API** | • Build `/api/ping` & `/api/sessions`<br>• Set up Postman & Nodemon |
-| **3** | **16, Jun – 22 Jun** | **React Basics** | • Finish React Tic‑Tac‑Toe tutorial<br>• Scaffold front‑end (`vite`)<br>• Add Tailwind |
-| **4** | **23, Jun – 29 Jun** | **Connect Front ↔ Back** | • Fetch sessions from API<br>• Create “New Session” form<br>• Error handling |
-| **5** | **30, Jun – 06 Jul** | **Persistence & Min‑Auth** | • Integrate SQLite (`better‑sqlite3`)<br>• Implement PIN cookie auth<br>• Join / leave endpoints |
-| **6** | **07, Jul – 13 Jul** | **Deployment Week** | • Dockerize API<br>• Deploy back‑end (Render) & front‑end (Vercel) |
-| **7** | **14, Jul – 20 Jul** | **Testing & Polish** | • Add Jest & RTL tests<br>• Lighthouse ≥ 90 scores |
-| **8** | **21, Jul – 03 Aug** | **Docs, Demo & Retro** | • Write README + ERD diagram<br>• Record 3‑min demo video<br>• Tag `v1.0` • Retro blog post |
+| **0** | **26,  May – 01 Jun** | ✔️ Kick‑off & Setup | • Create GitHub org / repo<br>• Install Node 20 & VS Code<br>• Agree on ESLint + Prettier config |
+| **1** | **02,  Jun – 08 Jun** | **JS Fundamentals Sprint** | • Complete freeCodeCamp JS basics (200 exercises)<br>• Solve 10 CodeWars katas<br>• Push `notes/` with reflections |
+| **2** | **09,  Jun – 15 Jun** | **Hello Express API** | • Build `/api/ping` & `/api/sessions`<br>• Set up Postman & Nodemon |
+| **3** | **16,  Jun – 22 Jun** | **React Basics** | • Finish React Tic‑Tac‑Toe tutorial<br>• Scaffold front‑end (`vite`)<br>• Add Tailwind |
+| **4** | **23,  Jun – 29 Jun** | **Connect Front ↔ Back** | • Fetch sessions from API<br>• Create “New Session” form<br>• Error handling |
+| **5** | **30,  Jun – 06 Jul** | **Persistence & Min‑Auth** | • Integrate SQLite (`better‑sqlite3`)<br>• Implement PIN cookie auth<br>• Join / leave endpoints |
+| **6** | **07,  Jul – 13 Jul** | **Deployment Week** | • Dockerize API<br>• Deploy back‑end (Render) & front‑end (Vercel) |
+| **7** | **14,  Jul – 20 Jul** | **Testing & Polish** | • Add Jest & RTL tests<br>• Lighthouse ≥ 90 scores |
+| **8** | **21,  Jul – 03 Aug** | **Docs, Demo & Retro** | • Write README + ERD diagram<br>• Record 3‑min demo video<br>• Tag `v1.0` • Retro blog post |
 
 > **Daily cadence (Mon – Thu)**  
 > * 10:30 AM – 12:30 PM → Pair learning / code review  
