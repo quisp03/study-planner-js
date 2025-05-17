@@ -1,12 +1,14 @@
 # Summer 2025 Collaboration – **Study Planner**  
 _A two‑month, single‑language project to level‑up in JavaScript_
 
-> **Duration:** **Mon 26 May 2025 → Sun 03 Aug 2025** (≈ 10 weeks incl. wrap‑up)  
+> **Duration:** **Mon 26 | May 2025 → Sun 03 Aug 2025** (≈ 10 weeks incl. wrap‑up)  
 > **Shared goal:** learn **modern JavaScript** end‑to‑end (both client & server) and ship a modest but complete web app.
 
 ---
 
-## 🗓️  Updated Timeline (starts **Mon 26 May 2025**)
+* Note that these goals, durations, and timelines may change accordingly.
+
+## 🗓️  Updated Timeline (starts **Mon 26, May 2025**)
 
 | Week | Calendar Span | Milestone | Key Tasks |
 |------|---------------|-----------|-----------|
